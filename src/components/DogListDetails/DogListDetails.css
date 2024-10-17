@@ -1,0 +1,9 @@
+img {
+  width: 35%; /* Justera procenten efter behov */
+  height: auto; /* För att bevara proportionerna */
+  object-fit: cover; /* För att bevara proportionerna och klippa bort överflöd */
+}
+
+.container h3 {
+  font-size: 13px; /* Justera detta värde för att göra texten mindre */
+}
