@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doggydaycareapp/static/css/main.94fab242.css",
+    "main.js": "/doggydaycareapp/static/js/main.7bc37aae.js",
+    "static/media/about-img.jpg": "/doggydaycareapp/static/media/about-img.96322176786f1dabe1f4.jpg",
+    "static/media/library-img.jpg": "/doggydaycareapp/static/media/library-img.8ceabc7248421eb4499f.jpg",
+    "static/media/logo.png": "/doggydaycareapp/static/media/logo.148e73db6edba553eae3.png",
+    "index.html": "/doggydaycareapp/index.html",
+    "main.94fab242.css.map": "/doggydaycareapp/static/css/main.94fab242.css.map",
+    "main.7bc37aae.js.map": "/doggydaycareapp/static/js/main.7bc37aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94fab242.css",
+    "static/js/main.7bc37aae.js"
+  ]
+}

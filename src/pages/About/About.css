@@ -1,7 +1,0 @@
-.about-img img {
-    width: 100%; /* Gör bilden responsiv och fyller hela sin behållare */
-    height: auto; /* Bevara bildens proportioner */
-    max-width: 1000px; /* Justera detta värde för att sätta en maximal bredd */
-    /* Alternativt, sätt en specifik höjd om du vill */
-    /* height: 400px; */
-}
